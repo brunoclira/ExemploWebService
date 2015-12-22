@@ -1,0 +1,104 @@
+2015-12-21 23:58:46,158 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SOAP:SOAP:0.0.1-SNAPSHOT @ C:\Java\GitHub\ExemploWebService\SOAP\SOAP\pom.xml.
+2015-12-21 23:58:51,634 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:51,636 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-21 23:58:51,638 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:51,639 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-21 23:58:51,680 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SOAP/src
+2015-12-21 23:58:51,693 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SOAP/src/test/java because it overlaps with /SOAP/src
+2015-12-21 23:58:52,028 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-12-21 23:58:52,719 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SOAP:SOAP:0.0.1-SNAPSHOT @ C:\Java\GitHub\ExemploWebService\SOAP\SOAP\pom.xml.
+2015-12-21 23:58:54,074 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:54,076 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-21 23:58:54,077 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:54,078 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-21 23:58:54,079 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SOAP
+2015-12-21 23:58:54,079 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SOAP
+2015-12-21 23:58:54,086 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2015-12-21 23:58:54,095 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:54,140 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SOAP/src
+2015-12-21 23:58:54,141 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SOAP/src/test/java because it overlaps with /SOAP/src
+2015-12-21 23:58:54,420 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SOAP
+2015-12-21 23:58:54,486 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-12-21 23:58:55,177 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:55,178 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-21 23:58:55,179 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-21 23:58:55,180 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-21 23:58:55,181 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SOAP
+2015-12-21 23:58:55,181 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SOAP
+2015-12-21 23:58:55,186 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:04:51,538 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SOAP:SOAP:0.0.1-SNAPSHOT @ C:\Java\GitHub\ExemploWebService\SOAP\SOAP\pom.xml.
+2015-12-22 00:04:52,634 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:04:52,635 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:04:52,637 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:04:52,638 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:04:52,638 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SOAP
+2015-12-22 00:04:52,638 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SOAP
+2015-12-22 00:04:52,643 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:29,919 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SOAP:SOAP:0.0.1-SNAPSHOT @ C:\Java\GitHub\ExemploWebService\SOAP\SOAP\pom.xml.
+2015-12-22 00:07:30,900 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.67/tomcat-embed-core-7.0.67.pom
+2015-12-22 00:07:31,109 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.67/tomcat-embed-core-7.0.67.pom
+2015-12-22 00:07:31,459 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.67/tomcat-embed-core-7.0.67.jar
+2015-12-22 00:07:46,826 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.67/tomcat-embed-core-7.0.67.jar
+2015-12-22 00:07:48,245 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:48,246 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:07:48,248 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:48,248 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:07:48,249 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SOAP
+2015-12-22 00:07:48,249 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SOAP
+2015-12-22 00:07:48,253 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:49,786 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:49,787 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:07:49,789 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:07:49,790 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:09:31,592 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:09:31,593 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:09:31,596 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:09:31,597 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:09:39,108 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:09:39,109 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:09:39,110 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:09:39,111 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:11:12,484 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:12,485 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:11:12,486 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:12,487 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:11:24,548 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:24,550 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:11:24,553 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:24,554 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:11:30,856 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:30,857 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:11:30,858 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:30,858 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:11:39,486 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:39,487 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:11:39,488 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:11:39,489 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:12:03,127 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:12:03,127 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:12:03,128 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:12:03,129 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:12:08,837 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:12:08,838 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:12:08,839 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:12:08,839 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:13:15,076 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:13:15,077 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:13:15,078 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:13:15,079 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:13:51,992 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:13:51,994 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:13:51,996 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:13:51,997 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:14:30,407 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:14:30,408 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:14:30,409 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:14:30,410 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:15:17,554 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:15:17,555 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:15:17,557 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:15:17,558 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
+2015-12-22 00:16:15,097 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:16:15,098 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\main\resources
+2015-12-22 00:16:15,100 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-22 00:16:15,101 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\ExemploWebService\SOAP\SOAP\src\test\resources
