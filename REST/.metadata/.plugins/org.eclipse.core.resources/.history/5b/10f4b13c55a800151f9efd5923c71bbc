@@ -1,0 +1,8 @@
+import javax.ws.rs.GET; 
+import da biblioteca jersey import javax.ws.rs.Path; 
+import da biblioteca jersey import javax.ws.rs.Produces; 
+import da biblioteca jersey
+
+@Path("/helloworld")
+
+
